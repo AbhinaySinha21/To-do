@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-  background: linear-gradient(120deg, pink, purple);
+  background: linear-gradient(120deg, green, purple);
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   min-height: 100vh;
